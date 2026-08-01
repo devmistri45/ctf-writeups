@@ -1,6 +1,6 @@
 ## Security Operations Center (SOC)
 
-678ecc92c80aa206339f0f23-1756425129235.svg
+![SOC diagram](678ecc92c80aa206339f0f23-1756425129235.svg)
 
 That's where you are most likely to start your cyber security journey! SOC is the central hub for an organization's cyber security - they are the first line of defense, work with various alerts, and handle most attacks. You can read more about SOC structure in [this room](https://tryhackme.com/room/socfundamentals), but an efficient SOC is usually composed of the following roles:
 
